@@ -18,8 +18,6 @@ the following resources are a great place to start:
 
 ## Folder structure
 
-We support a collection of templates, organized in this way:
-
 - The root folder contains templates in common use, to help people get started
   with popular programming languages and technologies. These define a meaningful
   set of rules to help get started, and ensure you are not committing
