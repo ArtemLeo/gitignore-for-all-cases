@@ -22,7 +22,7 @@ the following resources are a great place to start:
   with popular programming languages and technologies. These define a meaningful
   set of rules to help get started, and ensure you are not committing
   unimportant files into your repository.
-- [`Global`](./global) contains templates for various editors, tools and
+- [`global`](./global) contains templates for various editors, tools and
   operating systems that can be used in different situations. It is recommended
   that you either [add these to your global template](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files#configuring-ignored-files-for-all-repositories-on-your-computer)
   or merge these rules into your project-specific templates if you want to use
