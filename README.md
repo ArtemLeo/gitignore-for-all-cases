@@ -1,4 +1,4 @@
-## A collection of `.gitignore` templates
+## A collection of `.gitignore` templates 🖐 
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
 We use this list to populate the `.gitignore` template choosers available
@@ -150,6 +150,6 @@ by automatically forking the project and prompting to send a pull request too.
 [branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
 [pr]: https://help.github.com/articles/using-pull-requests/
 
-## License
-
-[CC0-1.0](./LICENSE).
+<img src="README images/0.png" alt="Logo">
+<img src="README images/1.png" alt="Logo">
+<img src="README images/2.png" alt="Logo">
